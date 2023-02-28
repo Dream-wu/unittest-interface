@@ -1,0 +1,38 @@
+[INFO]2023.02.27 18:55:11 : url: https://note-api.wps.cn/v3/notesvr/set/notecontent
+[INFO]2023.02.27 18:55:11 : body: {'noteId': 'SkIMTVqlQKjHN80zaU2gyAJou5ZipYh9', 'title': 'WZWsi7mvYPwPpkoEGtDKkA==', 'summary': 'Lu+Q4WSUN4bz21lYcf0ELyeb4atUMU1/4a/RZESeBog=', 'body': '+hnQTX1CV6UoBQKumuk0Uh7Jx19D9m26Dq7mSnQzBN8=', 'bodyType': 0}
+[INFO]2023.02.27 18:55:14 : 新增便签返回: 200, {'responseTime': 34, 'contentVersion': 1, 'contentUpdateTime': 1677495314838},
+[INFO]2023.02.27 18:55:14 : 查询SkIMTVqlQKjHN80zaU2gyAJou5ZipYh9便签返回: 200, {'responseTime': 30, 'noteBodies': [{'summary': 'Lu+Q4WSUN4bz21lYcf0ELyeb4atUMU1/4a/RZESeBog=', 'noteId': 'SkIMTVqlQKjHN80zaU2gyAJou5ZipYh9', 'infoNoteId': 'SkIMTVqlQKjHN80zaU2gyAJou5ZipYh9', 'bodyType': 0, 'body': '+hnQTX1CV6UoBQKumuk0Uh7Jx19D9m26Dq7mSnQzBN8=', 'contentVersion': 1, 'contentUpdateTime': 1677495314838, 'title': 'WZWsi7mvYPwPpkoEGtDKkA==', 'valid': 1}]},
+[INFO]2023.02.27 18:55:14 : 当前用例执行结束: 新增普通便签
+[INFO]2023.02.27 18:55:14 : url: https://note-api.wps.cn/v3/notesvr/set/notecontent
+[INFO]2023.02.27 18:55:14 : body: {'noteId': '2f7CbXWG1Vrapy4zjoYRsncNUD0xgtH3', 'title': 'WZWsi7mvYPwPpkoEGtDKkA==', 'summary': 'Lu+Q4WSUN4bz21lYcf0ELyeb4atUMU1/4a/RZESeBog=', 'body': 'https://www.baidu.com', 'bodyType': 1}
+[INFO]2023.02.27 18:55:15 : 新增便签返回: 200,{'responseTime': 48, 'contentVersion': 1, 'contentUpdateTime': 1677495315012},
+[INFO]2023.02.27 18:55:15 : 查询2f7CbXWG1Vrapy4zjoYRsncNUD0xgtH3便签返回: 200, {'responseTime': 31, 'noteBodies': [{'summary': 'Lu+Q4WSUN4bz21lYcf0ELyeb4atUMU1/4a/RZESeBog=', 'noteId': '2f7CbXWG1Vrapy4zjoYRsncNUD0xgtH3', 'infoNoteId': '2f7CbXWG1Vrapy4zjoYRsncNUD0xgtH3', 'bodyType': 1, 'body': 'https://www.baidu.com', 'contentVersion': 1, 'contentUpdateTime': 1677495315012, 'title': 'WZWsi7mvYPwPpkoEGtDKkA==', 'valid': 1}]},
+[INFO]2023.02.27 18:55:15 : 当前用例执行结束: 新增【超链接】便签
+[INFO]2023.02.27 18:55:15 : url: https://note-api.wps.cn/v3/notesvr/user/26706090/home/startindex/0/rows/10/notes
+[INFO]2023.02.27 18:55:15 : 便签列表返回: 200, {'responseTime': 0, 'webNotes': [{'noteId': '2f7CbXWG1Vrapy4zjoYRsncNUD0xgtH3', 'createTime': 1677495315012, 'star': 0, 'remindTime': 0, 'remindType': 0, 'infoVersion': 1, 'infoUpdateTime': 1677495315012, 'groupId': None, 'title': 'WZWsi7mvYPwPpkoEGtDKkA==', 'summary': 'Lu+Q4WSUN4bz21lYcf0ELyeb4atUMU1/4a/RZESeBog=', 'thumbnail': None, 'contentVersion': 1, 'contentUpdateTime': 1677495315012}, {'noteId': 'SkIMTVqlQKjHN80zaU2gyAJou5ZipYh9', 'createTime': 1677495314838, 'star': 0, 'remindTime': 0, 'remindType': 0, 'infoVersion': 1, 'infoUpdateTime': 1677495314838, 'groupId': None, 'title': 'WZWsi7mvYPwPpkoEGtDKkA==', 'summary': 'Lu+Q4WSUN4bz21lYcf0ELyeb4atUMU1/4a/RZESeBog=', 'thumbnail': None, 'contentVersion': 1, 'contentUpdateTime': 1677495314838}, {'noteId': 'ICJQFUBG9VOwyctbR4fW5L3vhNurAEkx', 'createTime': 1677314832196, 'star': 0, 'remindTime': 0, 'remindType': 0, 'infoVersion': 1, 'infoUpdateTime': 1677314832196, 'groupId': None, 'title': 'WZWsi7mvYPwPpkoEGtDKkA==', 'summary': 'Lu+Q4WSUN4bz21lYcf0ELyeb4atUMU1/4a/RZESeBog=', 'thumbnail': None, 'contentVersion': 1, 'contentUpdateTime': 1677314832196}, {'noteId': 'O0soz7Up5dLYbCx2l9JqBQvaWguyiEAk', 'createTime': 1677314832034, 'star': 0, 'remindTime': 0, 'remindType': 0, 'infoVersion': 1, 'infoUpdateTime': 1677314832034, 'groupId': None, 'title': 'WZWsi7mvYPwPpkoEGtDKkA==', 'summary': 'Lu+Q4WSUN4bz21lYcf0ELyeb4atUMU1/4a/RZESeBog=', 'thumbnail': None, 'contentVersion': 1, 'contentUpdateTime': 1677314832034}, {'noteId': 'Ct5xWJ0YdUEPZunkl8ANegIcm7MfTahz', 'createTime': 1677314647228, 'star': 0, 'remindTime': 0, 'remindType': 0, 'infoVersion': 1, 'infoUpdateTime': 1677314647228, 'groupId': None, 'title': 'WZWsi7mvYPwPpkoEGtDKkA==', 'summary': 'Lu+Q4WSUN4bz21lYcf0ELyeb4atUMU1/4a/RZESeBog=', 'thumbnail': None, 'contentVersion': 1, 'contentUpdateTime': 1677314647228}, {'noteId': 'lN86iRSUo5XL3sFWxj1mbcgnT4uM7EpA', 'createTime': 1677314575134, 'star': 0, 'remindTime': 0, 'remindType': 0, 'infoVersion': 1, 'infoUpdateTime': 1677314575134, 'groupId': None, 'title': 'WZWsi7mvYPwPpkoEGtDKkA==', 'summary': 'Lu+Q4WSUN4bz21lYcf0ELyeb4atUMU1/4a/RZESeBog=', 'thumbnail': None, 'contentVersion': 1, 'contentUpdateTime': 1677314575134}, {'noteId': '9e6HAMOJtyrBuGDoEzR34NQlc51qXfdF', 'createTime': 1677314522088, 'star': 0, 'remindTime': 0, 'remindType': 0, 'infoVersion': 1, 'infoUpdateTime': 1677314522088, 'groupId': None, 'title': 'WZWsi7mvYPwPpkoEGtDKkA==', 'summary': 'Lu+Q4WSUN4bz21lYcf0ELyeb4atUMU1/4a/RZESeBog=', 'thumbnail': None, 'contentVersion': 1, 'contentUpdateTime': 1677314522088}, {'noteId': 'UsgWqvYirlkNK2MRhSIbxyEBt4V8J3Tp', 'createTime': 1677314431420, 'star': 0, 'remindTime': 0, 'remindType': 0, 'infoVersion': 1, 'infoUpdateTime': 1677314431420, 'groupId': None, 'title': 'WZWsi7mvYPwPpkoEGtDKkA==', 'summary': 'Lu+Q4WSUN4bz21lYcf0ELyeb4atUMU1/4a/RZESeBog=', 'thumbnail': None, 'contentVersion': 1, 'contentUpdateTime': 1677314431420}, {'noteId': 'lwp21WaVthiQEYbFmH6AcXM8g5RCDSjo', 'createTime': 1677314392847, 'star': 0, 'remindTime': 0, 'remindType': 0, 'infoVersion': 1, 'infoUpdateTime': 1677314392847, 'groupId': None, 'title': 'WZWsi7mvYPwPpkoEGtDKkA==', 'summary': 'Lu+Q4WSUN4bz21lYcf0ELyeb4atUMU1/4a/RZESeBog=', 'thumbnail': None, 'contentVersion': 1, 'contentUpdateTime': 1677314392847}, {'noteId': 'iwjQnp9HDqs41IoMeWfkvyJ5bAhuYx3m', 'createTime': 1677313699915, 'star': 0, 'remindTime': 0, 'remindType': 0, 'infoVersion': 1, 'infoUpdateTime': 1677313699915, 'groupId': None, 'title': 'WZWsi7mvYPwPpkoEGtDKkA==', 'summary': 'Lu+Q4WSUN4bz21lYcf0ELyeb4atUMU1/4a/RZESeBog=', 'thumbnail': None, 'contentVersion': 1, 'contentUpdateTime': 1677313699915}]},
+[INFO]2023.02.27 18:55:15 : 当前用例执行结束: 便签列表
+[INFO]2023.02.27 18:55:15 : url: https://note-api.wps.cn/v3/notesvr/delete
+[INFO]2023.02.27 18:55:15 : 删除一个已存在的标签: 200, {'responseTime': 26},
+[INFO]2023.02.27 18:55:15 : 当前用例执行结束: 
+[INFO]2023.02.27 18:55:15 : url: https://note-api.wps.cn/v3/notesvr/set/notegroup
+[INFO]2023.02.27 18:55:15 : 新增一个分组: 200, {'responseTime': 35, 'updateTime': 1677495315389},
+[INFO]2023.02.27 18:55:15 : 当前用例执行结束: 
+[INFO]2023.02.27 18:55:15 : url: https://note-api.wps.cn/v3/notesvr/web/getnotes/group
+[INFO]2023.02.27 18:55:15 : 查看分组下标签: 200, {'responseTime': 0, 'webNotes': []},
+[INFO]2023.02.27 18:55:15 : 当前用例执行结束: 
+[INFO]2023.02.27 18:55:15 : url: https://note-api.wps.cn/v3/notesvr/delete/notegroup
+[INFO]2023.02.27 18:55:15 : 删除一个分组: 200, {'responseTime': 43},
+[INFO]2023.02.27 18:55:15 : 当前用例执行结束: 
+[INFO]2023.02.27 18:55:15 : url: https://note-api.wps.cn/v3/notesvr/web/getnotes/remind
+[INFO]2023.02.27 18:55:15 : 查看日历下便签: 200, {'responseTime': 0, 'webNotes': []},
+[INFO]2023.02.27 18:55:15 : 当前用例执行结束: 
+[INFO]2023.02.27 18:55:15 : url: https://note-api.wps.cn/v3/notesvr/user/26706090/invalid/startindex/0/rows/50/notes
+[INFO]2023.02.27 18:55:15 : 查看回收站下便签: 200, {'responseTime': 0, 'webNotes': [{'noteId': '24', 'createTime': 1677293573257, 'star': 0, 'remindTime': 0, 'remindType': 0, 'infoVersion': 56, 'infoUpdateTime': 1677495315283, 'groupId': None, 'title': 'WZWsi7mvYPwPpkoEGtDKkA==', 'summary': 'Lu+Q4WSUN4bz21lYcf0ELyeb4atUMU1/4a/RZESeBog=', 'thumbnail': None, 'contentVersion': 3, 'contentUpdateTime': 1677300063418}]},
+[INFO]2023.02.27 18:55:15 : 当前用例执行结束: 
+[INFO]2023.02.27 18:55:15 : url: https://note-api.wps.cn/v3/notesvr/user/26706090/notes
+[INFO]2023.02.27 18:55:15 : 恢复回收站下便签: 200, <Response [200]>,
+[INFO]2023.02.27 18:55:15 : 当前用例执行结束: 
+[INFO]2023.02.27 18:55:15 : url: https://note-api.wps.cn/v3/notesvr/cleanrecyclebin
+[INFO]2023.02.27 18:55:15 : body: {'noteIds': ['-1']}
+[INFO]2023.02.27 18:55:15 : 清空回收站下便签: 200,{'responseTime': 24},
+[INFO]2023.02.27 18:55:15 : 当前用例执行结束: 
